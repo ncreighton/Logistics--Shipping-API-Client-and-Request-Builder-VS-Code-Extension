@@ -1,0 +1,2 @@
+# Logistics--Shipping-API-Client-and-Request-Builder-VS-Code-Extension
+A powerful VS Code extension designed for developers working with logistics and shipping APIs. Streamline your workflow by building, testing, and managing HTTP requests directly within the editor. This extension provides an intuitive interface to construct complex shipping API calls (e.g., FedEx, UPS, DHL, USPS) without leaving your code. It includ
